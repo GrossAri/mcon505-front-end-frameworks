@@ -2,7 +2,7 @@
 
 MCON 505: Front-End Frameworks. An interactive to-do list built with React, TypeScript and Vite, deployed to Vercel.
 
-**Live app:** _Vercel URL goes here_
+**Live app:** https://mcon505-front-end-frameworks.vercel.app
 
 ## What it demonstrates
 
